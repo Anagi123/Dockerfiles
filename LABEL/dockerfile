@@ -1,0 +1,6 @@
+####
+FROM almalinux:8
+LABEL COURSE = Devops
+      TRAINER = SIVAKUMAR
+      DURATION = 100 HRS
+      
