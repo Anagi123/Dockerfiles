@@ -1,5 +1,5 @@
 ####
 FROM almalinux:8
-LABEL COURSE=Devops \
+LABEL COURSE=DevOPS \
       TRAINER=SIVAKUMAR \
       DURATION=100 HRS
